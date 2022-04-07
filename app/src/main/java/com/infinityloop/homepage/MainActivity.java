@@ -25,12 +25,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         music.setLooping(true);//comando per tenere il brano in loop
         music.start();
         Button bt = findViewById(R.id.mute);
-        bt.setOnClickListener(new View.OnClickListener() { //Crea messaggio pop-up quando si clicca sul tasto mute
+        /*bt.setOnClickListener(new View.OnClickListener() { //Crea messaggio pop-up quando si clicca sul tasto mute, MA NON SO USARLO
                                   @Override
                                   public void onClick(View v) {
                                       Toast.makeText(MainActivity.this, "Mute ON", Toast.LENGTH_SHORT).show();
                                   }
-        }
+        }*/
 
 
         findViewById(R.id.btninfinito).setOnClickListener(this);
