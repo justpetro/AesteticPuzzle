@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aestetic Puzzle</string>
+    <string name="aestetic_game">Aestetic Puzzle</string>
+    <string name="infinito">Infinito</string>
+    <string name="distopia">Distopia</string>
+    <string name="ground">ground</string>
+    <string name="mute">audio ON/OFF</string>
+    <string name="resume">resume</string>
+    <string name="ground1">Playground</string>
+
+    <string name="livello_1">livello 1</string>
+    <string name="livello_4">livello 4</string>
+    <string name="livello_3">livello 3</string>
+    <string name="livello_2">livello 2</string>
+    <string name="livello_5">livello 5</string>
+    <string name="livello_7">livello 7</string>
+    <string name="livello_9">livello 9</string>
+    <string name="livello_8">livello 8</string>
+    <string name="livello_10">livello 10</string>
+    <string name="livello_6">livello 6</string>
+</resources>
