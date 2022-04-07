@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/home/eolo/Documenti/GitHub/AesteticPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/home/eolo/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/values-hi/values-hi.xml",

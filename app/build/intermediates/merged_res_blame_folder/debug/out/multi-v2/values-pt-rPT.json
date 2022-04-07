@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/home/eolo/Documenti/GitHub/AesteticPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/home/eolo/.gradle/caches/transforms-3/3097e1c5dd79a0661fe903d2c2778720/transformed/core-1.5.0/res/values-pt-rPT/values-pt-rPT.xml",
