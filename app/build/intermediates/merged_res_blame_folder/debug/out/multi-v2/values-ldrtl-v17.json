@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
                     "source": "/home/eolo/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",

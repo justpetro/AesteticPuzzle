@@ -1,94 +1,94 @@
 [
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/drawable/logo.png"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/layout_activity_parte_infinito.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/layout/activity_parte_infinito.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/layout_activity_parte_ground.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/layout/activity_parte_ground.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/drawable_blurred.jpg.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/drawable/blurred.jpg"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/drawable_wallpaperstarthd.png.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/drawable/wallpaperstarthd.png"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/drawable_wallpaperstarthd.png.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/drawable/wallpaperstarthd.png"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/drawable_blurred.jpg.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/drawable/blurred.jpg"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/raw_comainstrumental.mp3.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/raw/comainstrumental.mp3"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/raw_comainstrumental.mp3.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/raw/comainstrumental.mp3"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/raw_homesong.mp3.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/raw/homesong.mp3"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/layout_activity_parte_infinito.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/layout/activity_parte_infinito.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/layout_activity_parte_ground.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/layout/activity_parte_ground.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/raw_homesong.mp3.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/raw/homesong.mp3"
     },
     {
-        "merged": "/home/eolo/Documenti/Progetti Android/Homepage/app/build/intermediates/merged_res/debug/layout_activity_parte_distopia.xml.flat",
-        "source": "/home/eolo/Documenti/Progetti Android/Homepage/app/src/main/res/layout/activity_parte_distopia.xml"
+        "merged": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/build/intermediates/merged_res/debug/layout_activity_parte_distopia.xml.flat",
+        "source": "/home/eolo/Documenti/Progetti Android/Aesthetic-Game/app/src/main/res/layout/activity_parte_distopia.xml"
     }
 ]
