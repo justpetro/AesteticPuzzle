@@ -24,19 +24,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         music = MediaPlayer.create(MainActivity.this, R.raw.homesong); //usare musica in backround
         music.setLooping(true);//comando per tenere il brano in loop
         music.start();
-        Button bt = findViewById(R.id.mute);
-        /*bt.setOnClickListener(new View.OnClickListener() { //Crea messaggio pop-up quando si clicca sul tasto mute, MA NON SO USARLO
-                                  @Override
-                                  public void onClick(View v) {
-                                      Toast.makeText(MainActivity.this, "Mute ON", Toast.LENGTH_SHORT).show();
-                                  }
-        }*/
 
 
         findViewById(R.id.btninfinito).setOnClickListener(this);
         findViewById(R.id.btndistopia).setOnClickListener(this);
         findViewById(R.id.btnground).setOnClickListener(this);
 
+    }
+    public void displayToast(View view){
+        if (count == 0) {
+            Toast.makeText(MainActivity.this, "Musica OFF", Toast.LENGTH_SHORT).show();
+        }else if(count == 1){
+            Toast.makeText(MainActivity.this, "Musica ON", Toast.LENGTH_SHORT).show();
+        }
     }
 
     public void mute(View v) { //funzionamento del comando mute
@@ -72,4 +72,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int id= android.os.Process.myPid();
         android.os.Process.killProcess(id);
     }
+
+
 }
