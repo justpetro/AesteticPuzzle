@@ -32,9 +32,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
     public void displayToast(View view){ //messaggio toast indicante stato musica
-        if (count == 0) {
+        if (music.isPlaying()) {
             Toast.makeText(MainActivity.this, "Musica OFF", Toast.LENGTH_SHORT).show();
-        }else if(count == 1){
+        }else{
             Toast.makeText(MainActivity.this, "Musica ON", Toast.LENGTH_SHORT).show();
         }
     }
@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     public void onDestroy(){ //metodo per uccidere il processo chiusa l'app
         super.onDestroy();
-
         int id= android.os.Process.myPid();
         android.os.Process.killProcess(id);
     }
