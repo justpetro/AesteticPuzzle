@@ -24,6 +24,7 @@ public class Music {
     public static boolean isPlaying(){
         return song.isPlaying();
     }
+
     //METTE IN PAUSA O RIPRENDE LA MUSICA
     public static void pauseMusic(){
         if(Music.isPlaying()){

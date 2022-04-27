@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     public void onDestroy(){ //metodo per uccidere il processo chiusa l'app
         super.onDestroy();
-
         int id= android.os.Process.myPid();
         android.os.Process.killProcess(id);
     }
