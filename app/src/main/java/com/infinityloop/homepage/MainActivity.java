@@ -11,6 +11,10 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
+import controller.ParteDistopia;
+import controller.ParteGround;
+import controller.ParteInfinito;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     MediaPlayer music;
     int count = 0; //Serve per far funzionare il metodo mute
@@ -64,6 +68,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             startActivity(new Intent(this, ParteGround.class));
             overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
         }
+
 
     }
     public void onDestroy(){ //metodo per uccidere il processo chiusa l'app

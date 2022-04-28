@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Petro/AesteticPuzzle/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="app/src/main/res/layout/activity_livello1_infinito.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12907608695652173" />
+        <entry key="app/src/main/res/layout/activity_parte_infinito.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/image_item.xml" value="0.25" />
       </map>
     </option>
   </component>
