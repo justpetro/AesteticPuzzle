@@ -21,7 +21,7 @@ public class ParteInfinito<music> extends AppCompatActivity {
         setContentView(R.layout.activity_parte_infinito);
     }
 
-    public void onClick(View view){
+    public void onClick(View view){  //sto codice qua fa crashare l'app
         if (view.getId() == R.id.button){
             startActivity(new Intent(this, MainLivello.class));
             overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
