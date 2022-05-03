@@ -20,6 +20,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Homepage" >
         <activity
+            android:name="model.LivelliInfinito"
+            android:exported="false" />
+        <activity
             android:name="com.infinityloop.homepage.ParteGround"
             android:exported="false" />
         <activity

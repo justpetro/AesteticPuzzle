@@ -2064,7 +2064,6 @@ id horizontal_only
 id icon
 id icon_group
 id idIVcourse
-id idMainLivello
 id idTVCourse
 id ifRoom
 id ignore
@@ -2394,7 +2393,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_livello1_infinito
 layout activity_main
 layout activity_parte_distopia
 layout activity_parte_ground

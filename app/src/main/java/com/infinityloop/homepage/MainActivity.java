@@ -2,18 +2,12 @@ package com.infinityloop.homepage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.Button;
 import android.widget.Toast;
-
-import controller.ParteDistopia;
-import controller.ParteGround;
-import controller.ParteInfinito;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     MediaPlayer music;
