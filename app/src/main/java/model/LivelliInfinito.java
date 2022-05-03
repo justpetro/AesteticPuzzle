@@ -26,5 +26,31 @@ public class LivelliInfinito {
 
     }
 
+    public int getWidth() {
+        return width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public Grid[][] getBoard() {
+        return board;
+    }
+
+    public void setBoard(Grid[][] board) {
+        this.board = board;
+    }
+    /*Metodo per randomizzare i livelli
+    public void generate() {
+        Generator generator = new Generator(this);
+        generator.generate();
+    } */
+
+    /* Metodo per creare un livello valido
+    public void generateSolution() {
+        Generator generator = new Generator(this);
+        generator.generateSolution();
+    }*/
 
 }
