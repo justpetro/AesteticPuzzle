@@ -20,4 +20,5 @@ Implementazione video tutorial con video o immagine
 # Problems
 
 Con A12 ho problemi con l'audio: l'audio non viene né mutato né interrotto all'uscita dell'app
+
 Problemi con la creazione di nuovi livelli e di conseguenza, fallisce la transizione da una scheda all'altra
