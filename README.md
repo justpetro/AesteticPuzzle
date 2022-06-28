@@ -14,6 +14,8 @@ Parte 2:
 
 Implementazione video tutorial con video o immagine
 
+- Creare una nuova finestra dove poter inserire un video/immagine tutorial
+
 # Problems
 
 Con A12 ho problemi con l'audio: l'audio non viene né mutato né interrotto all'uscita dell'app
