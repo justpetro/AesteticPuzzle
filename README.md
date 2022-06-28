@@ -5,10 +5,11 @@ This is a University school project. Maledetta ingegneria
 
 Codice parte logica per la creazione livelli
 
-Parte 1: Concentrarsi sui primi livelli del primo gamemode:
+- Parte 1: Concentrarsi sui primi livelli del primo gamemode:
   implementare le funzioni che permettono la rotazione delle immagini
   
-Parte 2:
+- Parte 2:
+- Parte 3:
 
 # Work in progress
 
